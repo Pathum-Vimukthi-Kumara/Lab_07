@@ -1,0 +1,55 @@
+
+body{
+background-image:url("images/background.jpeg")
+
+}
+
+table{
+	text-align: center;
+	
+}
+ table.center {
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+ }
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+tr{
+	background-color: #846840;
+}
+table, th, td {
+ 
+	color : white;
+	align : center;
+	float: auto;
+	position: relative;
+	left: 5.67em;
+	 border:  solid;
+}
+#headline{
+	color: red;
+	font-size:3em;
+	text-align: center;
+	float: auto;
+}
+#planets{
+	color: black;
+	font-size: 1em;
+	padding: 0.5em;
+	text-align: center;
+	float:auto;
+}
+#theading{
+	color: blue;
+	text-align:center;
+	background-color: yellow;
+	
+}
+
+.timage{
+	height: 10em;
+	boder : solid;
+}
